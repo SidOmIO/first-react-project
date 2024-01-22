@@ -1,0 +1,19 @@
+{
+    "items":[
+        {
+            "id": 1,
+            "checked": false,
+            "item": "El Hijo De Fantasma"
+        },
+        {
+            "id": 2,
+            "checked": false,
+            "item": "Judgement Day"
+        },
+        {
+            "id": 1,
+            "checked": false,
+            "item": "Muse"
+        }
+    ]
+}
