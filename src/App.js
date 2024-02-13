@@ -38,11 +38,12 @@ function App() {
   }, [])
 
   const addItem = async (item) => {
-    const id = items.length ? items[items.length - 1].id + 1 : 1;
+    const id = items.length ? String(parseInt(items[items.length - 1].id) + 1) : '1';
     console.log(id)
     const myNewItem = { id, checked: false, item };
     const listItems = [...items, myNewItem];
     setItems(listItems);
+    console.log(JSON.stringify(myNewItem))
 
     const postOptions = {
       method: 'POST',

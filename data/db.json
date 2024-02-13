@@ -1,19 +1,24 @@
 {
-    "items":[
-        {
-            "id": 1,
-            "checked": false,
-            "item": "El Hijo Del Fantasma"
-        },
-        {
-            "id": 2,
-            "checked": false,
-            "item": "Judgement Day"
-        },
-        {
-            "id": 3,
-            "checked": false,
-            "item": "Muse"
-        }
-    ]
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "El Hijo Del Fantasma"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Judgement Day"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Muse"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "Randy Orton"
+    }
+  ]
 }
