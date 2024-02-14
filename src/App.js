@@ -5,7 +5,6 @@ import Content from './Content';
 import Footer from './Footer';
 import { useEffect, useState } from "react";
 import apiRequest from './apiRequest';
-// import Challenge from './challenge/Challenge';
 
 function App() {
   const API_URL  = 'http://localhost:3500/items';
@@ -43,8 +42,7 @@ function App() {
     const myNewItem = { id, checked: false, item };
     const listItems = [...items, myNewItem];
     setItems(listItems);
-    console.log(JSON.stringify(myNewItem))
-
+    
     const postOptions = {
       method: 'POST',
       headers: {
@@ -115,13 +113,6 @@ function App() {
       <Footer length={items.length}/>
     </div>
   );
-
-  // return (
-  //   <Challenge 
-  //     search={search}
-  //     setSearch={setSearch}
-  //   />
-  // );
 
 }
 
