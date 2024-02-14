@@ -1,8 +1,11 @@
 import React from 'react'
 import SearchItem from '../SearchItem';
 import ChallengeChangeColor from './ChallengeChangeColor';
+import { useState } from "react";
 
-const Challenge = ({search,setSearch}) => {
+const Challenge = () => {
+  const [search, setSearch] = useState('');
+
   return (
     <div className="App">
         <ChallengeChangeColor
