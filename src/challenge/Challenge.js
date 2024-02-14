@@ -1,5 +1,6 @@
+// import styles from './challenge.module.css';
 import React from 'react'
-import SearchItem from '../SearchItem';
+import SearchItem from '../v1/SearchItem';
 import ChallengeChangeColor from './ChallengeChangeColor';
 import { useState } from "react";
 
