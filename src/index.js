@@ -4,7 +4,7 @@ import App from './App';
 import Appv1 from './v1/App';
 import Challenge from './challenge/Challenge';
 import Challenge2 from './challenge2/Challenge2';
-import './index.module.css';
+import './index.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
