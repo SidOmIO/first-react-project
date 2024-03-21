@@ -1,3 +1,6 @@
+Followed Dave Gray React Tutorial
+https://www.youtube.com/watch?v=RVFAyFWO4go&t=28899s
+
 Json Server -
 
 --v1--

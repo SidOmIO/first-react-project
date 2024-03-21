@@ -2,14 +2,8 @@
   "posts": [
     {
       "id": "1",
-      "title": "My First Post",
-      "datetime": "July 01, 2021 11:17:36 AM",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
-    },
-    {
-      "id": "2",
-      "title": "My 2nd Post",
-      "datetime": "July 01, 2021 11:17:36 AM",
+      "title": "My First Posting",
+      "datetime": "Mar 21, 2024 3:47:20 PM",
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
     },
     {
@@ -20,9 +14,15 @@
     },
     {
       "id": "4",
-      "title": "My 4th Post",
-      "datetime": "Mar 08, 2024 4:26:29 PM",
-      "body": "Lorem Ipsum something"
+      "title": "5th posting",
+      "datetime": "March 21, 2024 3:47:44 PM",
+      "body": "lorem ipsum"
+    },
+    {
+      "id": "5",
+      "title": "6th post",
+      "datetime": "March 21, 2024 3:51:21 PM",
+      "body": "nice"
     }
   ]
 }
